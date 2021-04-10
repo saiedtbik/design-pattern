@@ -1,4 +1,4 @@
-package creational.factorymethod;
+package creational.factorymethod.abstractcreator;
 
 public class Client {
 
