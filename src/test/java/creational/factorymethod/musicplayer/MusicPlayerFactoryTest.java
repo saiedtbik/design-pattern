@@ -13,7 +13,6 @@ public class MusicPlayerFactoryTest {
 
         MusicPlayer mp3Player = MusicPlayerFactory.getInstance(MusicFileType.MP3);
         assertTrue( mp3Player instanceof Mp3Player);
-
         MusicPlayer oggPlayer = MusicPlayerFactory.getInstance(MusicFileType.OGG);
         assertTrue( oggPlayer instanceof OggPlayer);
 
