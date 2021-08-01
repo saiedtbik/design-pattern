@@ -9,8 +9,9 @@
         <module name="abstract-factory" />
         <module name="prototype" />
         <module name="registry" />
+        <module name="singleton" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
