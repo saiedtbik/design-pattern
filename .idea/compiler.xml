@@ -8,12 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="abstract-factory" />
         <module name="prototype" />
-        <module name="registry" />
         <module name="adapter" />
+        <module name="registry" />
+        <module name="bridge" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11">
-      <module name="singleton" target="1.8" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>

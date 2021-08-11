@@ -15,6 +15,7 @@
         <module>prototype</module>
         <module>registry</module>
         <module>adapter</module>
+        <module>bridge</module>
     </modules>
 
 
