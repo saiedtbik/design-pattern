@@ -10,6 +10,7 @@
         <module name="decorator" />
         <module name="adapter" />
         <module name="registry" />
+        <module name="proxy" />
         <module name="prototype" />
         <module name="facade" />
         <module name="abstract-factory" />
