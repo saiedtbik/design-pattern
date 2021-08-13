@@ -10,8 +10,9 @@
         <module name="decorator" />
         <module name="adapter" />
         <module name="registry" />
-        <module name="abstract-factory" />
         <module name="prototype" />
+        <module name="facade" />
+        <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
