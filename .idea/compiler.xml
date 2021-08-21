@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="facade" />
         <module name="bridge" />
         <module name="decorator" />
-        <module name="adapter" />
         <module name="registry" />
         <module name="proxy" />
         <module name="prototype" />
-        <module name="facade" />
+        <module name="adapter" />
         <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
