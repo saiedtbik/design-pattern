@@ -19,10 +19,20 @@
         <module>abstract-factory</module>
         <module>prototype</module>
         <module>registry</module>
-        <module>singleton</module>
+        <module>adapter</module>
+        <module>bridge</module>
+        <module>decorator</module>
+        <module>facade</module>
+        <module>proxy</module>
+       <module>singleton</module>
+
     </modules>
 
 
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
 
     <dependencies>
         <dependency>
