@@ -21,6 +21,7 @@
         <module>registry</module>
         <module>singleton</module>
         <module>iterator</module>
+        <module>observer</module>
     </modules>
 
 
